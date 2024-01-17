@@ -3,11 +3,10 @@
 ## Introduction
 A portfolio building dataset provided by [Ian K.](https://www.linkedin.com/in/ian-klosowicz/) on LinkedIn
 
-Check out [My Current Analysis](https://github.com/iweld/aliens_of_america/blob/main/ANALYSIS.md "My Current Analysis") in SQL.
+Check out [My Current Analysis](https://github.com/Sachinsatya/sql_aliens_of_america/blob/main/ANALYSIS.md "My Current Analysis") in SQL.
 
-Check out [My Current Tableau Dashboard](https://public.tableau.com/app/profile/jaime.shaker/viz/FauxPharmaceutical/Dashboard "My Current Tableau Dashboard").
 
-![alt text](https://github.com/iweld/aliens_of_america/blob/main/images/faux_screen_mid.PNG)
+![alt text](https://github.com/Sachinsatya/sql_aliens_of_america/blob/main/images/faux_screen_mid.PNG)
 
 ## Problem Statement
 For this project, you play a role as a newly hired Data Analyst for a pharmaceutical company.
@@ -32,4 +31,4 @@ This dataset contains only three tables named
  - location
 
 ## Entity Relationship Diagram
-![alt text](https://github.com/iweld/aliens_of_america/blob/main/images/ERD.JPG)
+![alt text](https://github.com/Sachinsatya/sql_aliens_of_america/blob/main/images/ERD.JPG)
