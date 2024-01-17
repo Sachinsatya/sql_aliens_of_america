@@ -1,13 +1,13 @@
 # Aliens in America
 ## Case Study Questions and Answers
 
-**Author**: Jaime M. Shaker
+**Author**: Sachin MM
 
-**Email**: jaime.m.shaker@gmail.com
+**Email**: sachinds360@gmail.com
 
-**Website**: https://www.shaker.dev
+**Website**: https://www.sachinpfl.xyz
 
-**LinkedIn**: https://www.linkedin.com/in/jaime-shaker/
+**LinkedIn**: https://www.linkedin.com/in/sachin-m-6a6a9a171/
 
 ## A. Create tables and insert data.
 ````sql
