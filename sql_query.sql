@@ -1,6 +1,6 @@
 /* 
  * Aliens in America
- * Case Study Questions by Jaime M. Shaker jaime.m.shaker@gmail.com
+ * Case Study Questions by Sachin MM
  *   
 
 For this project, you play a role as a newly hired Data Analyst for a pharmaceutical company.
